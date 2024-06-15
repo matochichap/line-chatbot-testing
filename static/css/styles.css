@@ -1,0 +1,119 @@
+/* Colours
+#F9F7F7
+#DBE2EF
+#3F72AF
+#112D4E */
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F9F7F7;
+  /*
+  background: url("https://img.freepik.com/free-vector/abstract-outlined-polygonal-shapes-background_1053-442.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  */
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 7vw;
+  color: #112D4E;
+}
+
+h2 {
+  font-weight: 450;
+  font-size: 5.5vw;
+  color: #112D4E;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 4vw;
+  color: #112D4E;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 3vw;
+  color: #112D4E;
+}
+
+h5 {
+  font-weight: 400;
+  font-size: 2vw;
+  color: #112D4E;
+}
+
+p {
+  margin: 0.5rem 0;
+  font-size: 1.5vw;
+  font-weight: 500;
+  color: #112D4E;
+}
+
+hr {
+  margin: 5% 10%;
+  border: 1.5px solid #112D4E;
+}
+
+.dotted-hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  width: 3.5%;
+  margin: 2rem auto 2rem;
+}
+
+.main-container {
+  padding: 0 12.5%;
+}
+
+.title {
+  padding: 3% 0 0;
+}
+
+.main-text {
+  color: #3F72AF;
+  font-weight: 500;
+}
+
+.sub-text {
+  font-weight: 450;
+}
+
+.job-location {
+  padding: 0 0 2%;
+}
+
+.job-location-img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card {
+  margin: 3% 0;
+  padding: 10%;
+  border-radius: 25px;
+}
+
+.card hr {
+  margin: 5% 15%;
+  border: 1px solid #112D4E;
+}
+
+.card-header {
+  background-color: white;
+}
+
+.card-body {
+  padding: 1% 5%;
+  text-align: justify;
+}
+
+.apply-btn {
+  border-width: 2px;
+  font-size: 1.5vw;
+  font-weight: 500;
+}

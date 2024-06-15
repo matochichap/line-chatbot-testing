@@ -1,1 +1,72 @@
-[    {        "title": "Software Engineer",        "location": "San Francisco, CA",        "description": "We are seeking a talented software engineer to join our team and help build the next generation of our product.",        "url": "https://www.example.com/jobs/software-engineer",        "image_url": "https://www.pngmart.com/files/22/Software-Engineering-PNG.png"    },    {        "title": "Product Manager",        "location": "New York, NY",        "description": "We are looking for a product manager with experience in the SaaS industry to help drive our product strategy.",        "url": "https://www.example.com/jobs/product-manager",        "image_url": "https://www.pngmart.com/files/22/Software-Engineering-PNG.png"    },    {        "title": "Data Scientist",        "location": "Seattle, WA",        "description": "We are seeking a data scientist to help analyze and interpret our large datasets and drive insights for our business.",        "url": "https://www.example.com/jobs/data-scientist",        "image_url": "https://www.pngmart.com/files/22/Software-Engineering-PNG.png"    },    {        "title": "Marketing Manager",        "location": "Chicago, IL",        "description": "We are looking for a creative marketing manager to help us develop and execute marketing campaigns across multiple channels.",        "url": "https://www.example.com/jobs/marketing-manager",        "image_url": "https://www.pngmart.com/files/22/Marketing-PNG-Transparent-Image.png"    },    {        "title": "Account Executive",        "location": "Austin, TX",        "description": "We are seeking an experienced account executive to help us grow our business and expand our customer base.",        "url": "https://www.example.com/jobs/account-executive",        "image_url": "https://www.pngmart.com/files/22/Business-Man-PNG-File.png"    },    {        "title": "Graphic Designer",        "location": "Los Angeles, CA",        "description": "We are looking for a talented graphic designer to help us create visually stunning designs for our marketing and advertising campaigns.",        "url": "https://www.example.com/jobs/graphic-designer",        "image_url": "https://www.pngmart.com/files/22/Graphic-Design-PNG-Transparent-Image.png"    },    {        "title": "HR Manager",        "location": "Boston, MA",        "description": "We are seeking an experienced HR manager to help us develop and implement HR policies and procedures that align with our business objectives.",        "url": "https://www.example.com/jobs/hr-manager",        "image_url": "https://www.pngmart.com/files/22/HR-Manager-PNG-Transparent-Image.png"    },    {        "title": "Frontend Developer",        "location": "Portland, OR",        "description": "We are looking for a frontend developer to help us build and maintain our web applications and user interfaces.",        "url": "https://www.example.com/jobs/frontend-developer",        "image_url": "https://www.pngmart.com/files/22/Front-End-Developer-PNG-Clipart.png"    },    {        "title": "Sales Manager",        "location": "Houston, TX",        "description": "We are seeking an experienced sales manager to help us build and manage a high-performing sales team and drive revenue growth.",        "url": "https://www.example.com/jobs/sales-manager",        "image_url": "https://www.pngmart.com/files/22/Sales-Manager-PNG-Clipart.png"    },    {        "title": "UX Designer",        "location": "Denver, CO",        "description": "We are looking for a UX designer to help us create intuitive and user-friendly interfaces for our digital products.",        "url": "https://www.example.com/jobs/ux-designer",        "image_url": "https://www.pngmart.com/files/22/UX-Designer-PNG-Transparent-Image.png"    }]
+[
+    {
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "shortDescription": "Seeking a skilled Software Engineer with experience in Python and web development.",
+      "detailedDescription": "We are looking for a talented Software Engineer to join our team. You will be responsible for developing high-quality software solutions using Python and modern web technologies. The ideal candidate should have a strong background in software development and be able to work in a fast-paced, collaborative environment.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/San_Francisco_from_the_Marin_Headlands_in_August_2022.jpg"
+    },
+    {
+      "title": "Marketing Specialist",
+      "location": "New York, NY",
+      "shortDescription": "Looking for a creative Marketing Specialist to develop and execute marketing campaigns.",
+      "detailedDescription": "We are seeking a Marketing Specialist to help drive our marketing efforts. In this role, you will be responsible for developing and executing marketing campaigns, managing social media accounts, and analyzing campaign performance. The ideal candidate should have a strong background in marketing and be able to think creatively to drive engagement and brand awareness.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1200px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
+    },
+    {
+      "title": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "shortDescription": "Join our design team as a Graphic Designer and bring our brand to life through visual storytelling.",
+      "detailedDescription": "We are looking for a talented Graphic Designer to join our design team. As a Graphic Designer, you will be responsible for creating visually compelling designs that communicate our brand's message effectively. The ideal candidate should have a strong portfolio showcasing their design skills and be proficient in Adobe Creative Suite.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/20190616154621%21Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline.jpg"
+    },
+    {
+      "title": "Sales Representative",
+      "location": "Chicago, IL",
+      "shortDescription": "Seeking a motivated Sales Representative to drive revenue growth and build customer relationships.",
+      "detailedDescription": "We are hiring a Sales Representative to join our team. In this role, you will be responsible for identifying and acquiring new customers, as well as nurturing and growing existing client relationships. The ideal candidate should have excellent communication and negotiation skills, and a proven track record in sales.",
+      "imageUrl": "https://www.planetware.com/wpimages/2023/01/illinois-chicago-best-time-to-visit-intro-paragraph-skyline-lake.jpg"
+    },
+    {
+      "title": "Data Analyst",
+      "location": "Seattle, WA",
+      "shortDescription": "Looking for a Data Analyst to turn data into actionable insights and drive business decisions.",
+      "detailedDescription": "We are seeking a Data Analyst to help us leverage data to make informed business decisions. In this role, you will be responsible for collecting, analyzing, and interpreting data to identify trends and patterns. The ideal candidate should have a strong analytical mindset, proficiency in data analysis tools, and the ability to communicate findings effectively.",
+      "imageUrl": "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2022-04/5639157682e2053e7cfaddeea35c03a1.jpeg?h=1f16ef47&itok=fUdNyhRF"
+    },
+    {
+      "title": "Project Manager",
+      "location": "Austin, TX",
+      "shortDescription": "Join our team as a Project Manager and oversee the successful execution of various projects.",
+      "detailedDescription": "We are looking for an experienced Project Manager to join our team. As a Project Manager, you will be responsible for planning, executing, and monitoring projects from start to finish. The ideal candidate should have excellent organizational and leadership skills, and the ability to manage multiple projects simultaneously.",
+      "imageUrl": "https://media.radissonhotelsamericas.com/image/destination-pagesus/localattraction/20828-139885-f63244587_3xl.jpg?impolicy=HomeHero"
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "location": "Toronto, Canada",
+      "shortDescription": "Seeking an organized Human Resources Coordinator to support HR operations and employee engagement.",
+      "detailedDescription": "We are hiring a Human Resources Coordinator to join our HR team. In this role, you will be responsible for assisting with HR operations, managing employee records, coordinating recruitment activities, and supporting employee engagement initiatives. The ideal candidate should have strong organizational skills, attention to detail, and a passion for supporting a positive work environment.",
+      "imageUrl": "https://cdn.britannica.com/93/94493-050-35524FED/Toronto.jpg"
+    },
+    {
+      "title": "Financial Analyst",
+      "location": "London, UK",
+      "shortDescription": "Looking for a Financial Analyst to provide financial insights and support decision-making.",
+      "detailedDescription": "We are seeking a Financial Analyst to join our finance team. In this role, you will be responsible for analyzing financial data, preparing reports, and providing insights to support business decisions. The ideal candidate should have strong analytical skills, proficiency in financial modeling, and a solid understanding of financial principles.",
+      "imageUrl": "https://media.cntraveler.com/photos/63dd2f22c45b6db7394e9cb2/16:9/w_2560%2Cc_limit/London_GettyImages-1400045121.jpg"
+    },
+    {
+      "title": "Customer Service Representative",
+      "location": "Sydney, Australia",
+      "shortDescription": "Join our customer service team as a Representative and provide exceptional support to our customers.",
+      "detailedDescription": "We are hiring a Customer Service Representative to join our team. In this role, you will be responsible for assisting customers with inquiries, resolving issues, and providing exceptional service. The ideal candidate should have excellent communication skills, empathy, and the ability to handle customer concerns with professionalism.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/55ee34aae4b0bf70212ada4c/1577545161018-1F9Z9ZZQG9JO2O4WCWQX/keith-zhu-qaNcz43MeY8-unsplash+%281%29.jpg?format=1500w"
+    },
+    {
+      "title": "Operations Manager",
+      "location": "Mumbai, India",
+      "shortDescription": "Seeking an experienced Operations Manager to oversee daily operations and drive efficiency.",
+      "detailedDescription": "We are looking for an Operations Manager to join our team. In this role, you will be responsible for overseeing daily operations, managing resources, and driving process improvements to enhance efficiency. The ideal candidate should have strong leadership skills, experience in operations management, and a focus on continuous improvement.",
+      "imageUrl": "https://cdn.britannica.com/26/84526-050-45452C37/Gateway-monument-India-entrance-Mumbai-Harbour-coast.jpg"
+    }
+]
